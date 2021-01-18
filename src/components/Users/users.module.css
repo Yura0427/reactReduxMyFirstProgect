@@ -1,0 +1,11 @@
+.userFoto{
+    width: 100px;
+    height: 100px;
+}
+span{
+    margin: 1px;
+    cursor: pointer;
+}
+.selectedPage{
+    font-weight: bold;
+}
