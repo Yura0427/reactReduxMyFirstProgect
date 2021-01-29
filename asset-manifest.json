@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Yura0427/reactReduxMyFirstProgect/static/css/main.92c52c58.chunk.css",
+    "main.js": "/Yura0427/reactReduxMyFirstProgect/static/js/main.28af2958.chunk.js",
+    "main.js.map": "/Yura0427/reactReduxMyFirstProgect/static/js/main.28af2958.chunk.js.map",
+    "runtime-main.js": "/Yura0427/reactReduxMyFirstProgect/static/js/runtime-main.e95caad0.js",
+    "runtime-main.js.map": "/Yura0427/reactReduxMyFirstProgect/static/js/runtime-main.e95caad0.js.map",
+    "static/js/2.b1e26f9e.chunk.js": "/Yura0427/reactReduxMyFirstProgect/static/js/2.b1e26f9e.chunk.js",
+    "static/js/2.b1e26f9e.chunk.js.map": "/Yura0427/reactReduxMyFirstProgect/static/js/2.b1e26f9e.chunk.js.map",
+    "static/js/3.a48153ae.chunk.js": "/Yura0427/reactReduxMyFirstProgect/static/js/3.a48153ae.chunk.js",
+    "static/js/3.a48153ae.chunk.js.map": "/Yura0427/reactReduxMyFirstProgect/static/js/3.a48153ae.chunk.js.map",
+    "index.html": "/Yura0427/reactReduxMyFirstProgect/index.html",
+    "static/css/main.92c52c58.chunk.css.map": "/Yura0427/reactReduxMyFirstProgect/static/css/main.92c52c58.chunk.css.map",
+    "static/js/2.b1e26f9e.chunk.js.LICENSE.txt": "/Yura0427/reactReduxMyFirstProgect/static/js/2.b1e26f9e.chunk.js.LICENSE.txt",
+    "static/media/ava.c4f0f2e0.gif": "/Yura0427/reactReduxMyFirstProgect/static/media/ava.c4f0f2e0.gif",
+    "static/media/logo.141eac0e.gif": "/Yura0427/reactReduxMyFirstProgect/static/media/logo.141eac0e.gif",
+    "static/media/preloader.413b5564.svg": "/Yura0427/reactReduxMyFirstProgect/static/media/preloader.413b5564.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e95caad0.js",
+    "static/js/2.b1e26f9e.chunk.js",
+    "static/css/main.92c52c58.chunk.css",
+    "static/js/main.28af2958.chunk.js"
+  ]
+}
